@@ -98,7 +98,7 @@ namespace SpotifyInsights
             try
             {
                 var artistsOrdered = artists.OrderByDescending(p => p.Popularity).ToList();
-                string path = Directory.GetCurrentDirectory() + @"\SpotifyStatistics.csv";
+                string path = Directory.GetCurrentDirectory() + $"\\SpotifyStatistics_{DateTime.Now.ToString("ddMMMyy")}.csv";
 
                 Console.WriteLine("Generating file at " + path);
 
@@ -136,6 +136,8 @@ namespace SpotifyInsights
             {
                 using (HttpClient client = new HttpClient())
                 {
+                    httpRequest.Headers.Add("User-Agent", "SpotifyInsights");
+
                     using (HttpResponseMessage response = await client.SendAsync(httpRequest))
                     {
                         string getResponse = null;
