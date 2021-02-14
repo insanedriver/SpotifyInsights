@@ -156,7 +156,7 @@ namespace SpotifyInsights
                         }
                         else
                         {
-                            Console.WriteLine("Unable to return Artist Page information");
+                            Console.WriteLine($"Unable to return Artist Page information: {url}");
                         }
                     }
                 }
