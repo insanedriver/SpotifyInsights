@@ -1,0 +1,385 @@
+{
+	"Endpoint": "https://api.spotify.com/v1/artists",
+  "Artists": [
+    {
+      "Name": "Insane Driver",
+      "Uri": "spotify:artist:2ye4AQnKI7zNyOnuLGHaaE"
+    },
+    {
+      "Name": "Angra",
+      "Uri": "spotify:artist:7IAXZaLTb6nkJr8RmVPn5y"
+    },
+    {
+      "Name": "Sepultura",
+      "Uri": "spotify:artist:6JW8wliOEwaDZ231ZY7cf4"
+    },
+    {
+      "Name": "Matanza",
+      "Uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+    },
+    {
+      "Name": "Oficina G3",
+      "Uri": "spotify:artist:0gO5Vbklho8yrBrUdHhuLH"
+    },
+    {
+      "Name": "Far From Alaska",
+      "Uri": "spotify:artist:1ztNPX8z169arfAY0TWFLB"
+    },
+    {
+      "Name": "Krisiun",
+      "Uri": "spotify:artist:3pzAW9xs16rX8fukH8wV6N"
+    },
+    {
+      "Name": "Semblant",
+      "Uri": "spotify:artist:6XbRGptXH3evQfHCfKCqiO"
+    },
+    {
+      "Name": "Projetc46",
+      "Uri": "spotify:artist:4PdFQIzACemw18MfVS1LCF"
+    },
+    {
+      "Name": "Dr Sin",
+      "Uri": "spotify:artist:4YtYp2wFYIgdNsLWo6rM3D"
+    },
+    {
+      "Name": "Ponto Nulo no Céu",
+      "Uri": "spotify:artist:6owybFVxTfAl9RpASR0hHe"
+    },
+    {
+      "Name": "Mindflow",
+      "Uri": "spotify:artist:7GFtsLGIM7wRmfGqrdAfkG"
+    },
+    {
+      "Name": "Nervosa",
+      "Uri": "spotify:artist:5D9d9xyLNQu32QVD9t4YqH"
+    },
+    {
+      "Name": "Almah",
+      "Uri": "spotify:artist:41zxOMwuASgUJp0c697KDm"
+    },
+    {
+      "Name": "Sioux66",
+      "Uri": "spotify:artist:3KFpsnJzPktJMkj11Yjdng"
+    },
+    {
+      "Name": "Mattilha",
+      "Uri": "spotify:artist:1p5k3q7GkTTeSI3dundiSU"
+    },
+    {
+      "Name": "Hibria",
+      "Uri": "spotify:artist:72rswq5X0csZgWCsAqDwfU"
+    },
+    {
+      "Name": "Tuatha de Danan",
+      "Uri": "spotify:artist:13LUK4MSLSmDpI6D3lJqEn"
+    },
+    {
+      "Name": "John Wayne",
+      "Uri": "spotify:artist:0aUvfFnGgvc8ES3FrJ6Ify"
+    },
+    {
+      "Name": "Hangar",
+      "Uri": "spotify:artist:073v2aQjS8tVeaUsp86lkd"
+    },
+    {
+      "Name": "Torture Squad",
+      "Uri": "spotify:artist:6E3iq1WfZbw2YEeTKVZYJR"
+    },
+    {
+      "Name": "Eutenia",
+      "Uri": "spotify:artist:1b1VNVxpK917LlNACwCIKM"
+    },
+    {
+      "Name": "Armahda",
+      "Uri": "spotify:artist:2T4ejMjiHJ8xQe11VGuSDw"
+    },
+    {
+      "Name": "Korzus",
+      "Uri": "spotify:artist:3IPsbVbc2hVQMU50DZu9gD"
+    },
+    {
+      "Name": "Vivalma",
+      "Uri": "spotify:artist:4ozwSmjGC7CLDJSUEy7gcJ"
+    },
+    {
+      "Name": "Attomica",
+      "Uri": "spotify:artist:1gni4GCDSre0p0Oc4zrmEV"
+    },
+    {
+      "Name": "Acid Tree",
+      "Uri": "spotify:artist:0MaxB7pPJ802ZaQVauiWWZ"
+    },
+    {
+      "Name": "Noturnall",
+      "Uri": "spotify:artist:7xRCuSBEiVCIJWCSIYQ7Ni"
+    },
+    {
+      "Name": "Age Of Artemis",
+      "Uri": "spotify:artist:3R8K4c7QPUuXdEWuK7j0Fe"
+    },
+    {
+      "Name": "Válvera",
+      "Uri": "spotify:artist:3S87lwfQs6K1O1WsQrpPhz"
+    },
+    {
+      "Name": "Ancesttral",
+      "Uri": "spotify:artist:6UAo2vwkWJAZFJBQpq2RtR"
+    },
+    {
+      "Name": "Laboratori",
+      "Uri": "spotify:artist:68ppEBng9KqeCGN60kFmse"
+    },
+    {
+      "Name": "Shadowside",
+      "Uri": "spotify:artist:0fh6UHVcDIa7JgHMCfIHBn"
+    },
+    {
+      "Name": "Salário Mínimo",
+      "Uri": "spotify:artist:09WAilnuxyGHmfZI5nMgcZ"
+    },
+    {
+      "Name": "Woslom",
+      "Uri": "spotify:artist:7aEFtXDQkUV63AflPEQy0C"
+    },
+    {
+      "Name": "Voodoopriest",
+      "Uri": "spotify:artist:0vzscTTFNE4l4ye7k7X2MI"
+    },
+    {
+      "Name": "Attractha",
+      "Uri": "spotify:artist:4HWAX1qVbMkfZsJoYf8oFS"
+    },
+    {
+      "Name": "King Of Bones",
+      "Uri": "spotify:artist:5GQPvlbOwjPVdQwJ9GgPG5"
+    },
+    {
+      "Name": "King Bird",
+      "Uri": "spotify:artist:4W5av5T2Yea2V9SRKuqQ6z"
+    },
+    {
+      "Name": "Fúria Inc",
+      "Uri": "spotify:artist:4lhCAq9zXgIX3T89sTnFx6"
+    },
+    {
+      "Name": "About 2 Crash",
+      "Uri": "spotify:artist:0JmaBWPPu6SlrpDvRsS6H1"
+    },
+    {
+      "Name": "Hevilan",
+      "Uri": "spotify:artist:3IjF7hl9iIQ9bl9DI0SEbr"
+    },
+    {
+      "Name": "Rygel",
+      "Uri": "spotify:artist:3uewxKHdXm6UxXAy1vbz6G"
+    },
+    {
+      "Name": "Heaviest",
+      "Uri": "spotify:artist:1Y5nuG5KLWleJ4Wgvb2dmn"
+    },
+    {
+      "Name": "Perc3ption",
+      "Uri": "spotify:artist:54ikKnSAcfZUmKmnyA1bIs"
+    },
+    {
+      "Name": "Hellarise",
+      "Uri": "spotify:artist:4LYNcClezIEMX3sVj3kyhK"
+    },
+    {
+      "Name": "Final Disaster",
+      "Uri": "spotify:artist:3Deto26wjooiLPQmPGlZ0E"
+    },
+    {
+      "Name": "NoWay",
+      "Uri": "spotify:artist:4xfFYWswcqsbV1Hg3JHBWU"
+    },
+    {
+      "Name": "Shaman",
+      "Uri": "spotify:artist:2THaGrUq7RPnj8Uax9zQ1m"
+    },
+    {
+      "Name": "Hatematter",
+      "Uri": "spotify:artist:3Vm376UbO2JxtD3TM7gndJ"
+    },
+    {
+      "Name": "Aneurose",
+      "Uri": "spotify:artist:55J9CMCCnEelYAtJAH9DvD"
+    },
+    {
+      "Name": "Trayce",
+      "Uri": "spotify:artist:6Rz8D6l0MznuyKcbazJm5X"
+    },
+    {
+      "Name": "Kamboja",
+      "Uri": "spotify:artist:2ApdbaHwMkalEhfTEO32Bc"
+    },
+    {
+      "Name": "Golpe de Estado",
+      "Uri": "spotify:artist:0nBtgRm31iRXJGRiHUP3RJ"
+    },
+    {
+      "Name": "Carro Bomba",
+      "Uri": "spotify:artist:4uTzT9JvidXbT0fzQHKJ1q"
+    },
+    {
+      "Name": "Gloria",
+      "Uri": "spotify:artist:7IvxX9RKB0Tal8lE7LZxXN"
+    },
+    {
+      "Name": "BrokenRail",
+      "Uri": "spotify:artist:0hVmD9wRPmzj84Hlcygc4d"
+    },
+    {
+      "Name": "Ego Kill Talent",
+      "Uri": "spotify:artist:2FkHoIxJdhomebqlsXKZ3i"
+    },
+    {
+      "Name": "Venomous",
+      "Uri": "spotify:artist:5jAnLs6ULesKe7CsHuCW1H"
+    },
+    {
+      "Name": "Claustrofobia",
+      "Uri": "spotify:artist:6qQ1oR8882plR1Iwfuh179"
+    },
+    {
+      "Name": "Baranga",
+      "Uri": "spotify:artist:4ePpcbfqwtxqUuJ66scvpA"
+    },
+    {
+      "Name": "Black Pantera",
+      "Uri": "spotify:artist:2PftOgEPewb4XsaeE4567t"
+    },
+    {
+      "Name": "Dark Avenger",
+      "Uri": "spotify:artist:2HcG0rrE6aRXexf40ijHzY"
+    },
+    {
+      "Name": "Hatefulmurder",
+      "Uri": "spotify:artist:6gzTPz8NipWH2EBUPw1CPy"
+    },
+    {
+      "Name": "Jackdevil",
+      "Uri": "spotify:artist:2QKrgt5vokbTiXEZToGHCY"
+    },
+    {
+      "Name": "Genocídio",
+      "Uri": "spotify:artist:3dOBKALL500ZDHHa2stRlF"
+    },
+    {
+      "Name": "Distraugth",
+      "Uri": "spotify:artist:4whVE4ydoMDDRvoxkmzpw6"
+    },
+    {
+      "Name": "NervoChaos",
+      "Uri": "spotify:artist:79Zxs7jzzD0sCwnYOUCKGx"
+    },
+    {
+      "Name": "Soulspell",
+      "Uri": "spotify:artist:4YmdAxENgEABrxFj8zRSsA"
+    },
+    {
+      "Name": "Viper",
+      "Uri": "spotify:artist:6ywWIQgZrAOTcmA3XxGIk7"
+    },
+    {
+      "Name": "Inherence",
+      "Uri": "spotify:artist:0Hv738DV8w01gUZrbuIZw2"
+    },
+    {
+      "Name": "Sinaya",
+      "Uri": "spotify:artist:1UE8lhEGMGSSDTGPteifBD"
+    },
+    {
+      "Name": "Worst",
+      "Uri": "spotify:artist:50Gz8NDlBXc8bKNUqlQlQp"
+    },
+    {
+      "Name": "Circo de Fantoches",
+      "Uri": "spotify:artist:5y201aZGB3b4Y6sJmgF468"
+    },
+    {
+      "Name": "Maestrick",
+      "Uri": "spotify:artist:5zsg4P6lTHHjQwTCzn74sX"
+    },
+    {
+      "Name": "Lyria",
+      "Uri": "spotify:artist:2IeoYHbIvFxDInNLHFt0XQ"
+    },
+    {
+      "Name": "Tamuya Trash Tribe",
+      "Uri": "spotify:artist:77Klef1xrlRXEYr2s8ZHcG"
+    },
+    {
+      "Name": "MX",
+      "Uri": "spotify:artist:11CbG4ImkEw99aUngEKer8"
+    },
+    {
+      "Name": "Lifetime Code",
+      "Uri": "spotify:artist:7KcYvGlVVEXXd6064blzHl"
+    },
+    {
+      "Name": "Oitão",
+      "Uri": "spotify:artist:6DcGHTqziCAg4pkFJbJVx3"
+    },
+    {
+      "Name": "Malta",
+      "Uri": "spotify:artist:17NbypXXnsLwf15wqq32IG"
+    },
+    {
+      "Name": "Kiara Rocks",
+      "Uri": "spotify:artist:58SVEcr8hNse0Jce49rIj0"
+    },
+    {
+      "Name": "Violator",
+      "Uri": "spotify:artist:0lFI9B2QSbFVqS6gAZzg1a"
+    },
+    {
+      "Name": "Trezzy",
+      "Uri": "spotify:artist:5pWd3PlVQI46tJ9cNxtAD4"
+    },
+    {
+      "Name": "Massacration",
+      "Uri": "spotify:artist:7GhebLBMgszGbtbmjq4HHB"
+    },
+    {
+      "Name": "Stormsons",
+      "Uri": "spotify:artist:4qji2C7ZoprCOfJaYs8lhe"
+    },
+    {
+      "Name": "Armored Dawn",
+      "Uri": "spotify:artist:1oueQWyrcULGbpk0DyiqGf"
+    },
+    {
+      "Name": "Reckoning Hour",
+      "Uri": "spotify:artist:1JdbZwP5C4Rv5qA2c08iav"
+    },
+    {
+      "Name": "André Matos",
+      "Uri": "spotify:artist:4FhjNTlKUnMbaeS21fouvd"
+    },
+    {
+      "Name": "Ratos de Porão",
+      "Uri": "spotify:artist:3d2xlrGC9JGD7ycsf0e8mF"
+    },
+    {
+      "Name": "Republica",
+      "Uri": "spotify:artist:7eB6UyHRxQEHKDi29K9Ivy"
+    },
+    {
+      "Name": "Allegro",
+      "Uri": "spotify:artist:0VPsq454HajVor1lRm2NFN"
+    },
+    {
+      "Name": "Painside",
+      "Uri": "spotify:artist:6tXPMiSHH3C0ehguy0cDkR"
+    },
+    {
+      "Name": "Ego Abscence",
+      "Uri": "spotify:artist:1If144nSKqrPwjHlFAl0dN"
+    },
+    {
+      "Name": "Remove Silence",
+      "Uri": "spotify:artist:5McGYmuYcnvu7Pr7lRn0zD"
+    }
+  ]
+}
