@@ -146,7 +146,7 @@ namespace SpotifyInsights
                         {
                             getResponse = await response.Content.ReadAsStringAsync();
 
-                            string monthly1 = getResponse.Substring(getResponse.IndexOf("monthly_listeners\":"), 35);
+                            string monthly1 = getResponse.Substring(getResponse.IndexOf("monthlyListeners\":"), 35);
 
                             int positionColon = monthly1.IndexOf(":");
                             int positionComma = monthly1.IndexOf(",");
